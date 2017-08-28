@@ -1,0 +1,5 @@
+BH149LL|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Sun Aug 27 2017 23:09:11 GMT-0500 (CDT)
+CB1 3PG|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Mon Aug 28 2017 08:43:33 GMT-0500 (CDT)
+CB113DS|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Mon Aug 28 2017 08:49:25 GMT-0500 (CDT)
+CB12BH|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Mon Aug 28 2017 08:49:35 GMT-0500 (CDT)
+CB17AN|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Mon Aug 28 2017 08:49:40 GMT-0500 (CDT)

@@ -3,7 +3,7 @@ const fs = require('fs')
 const filendir = require('filendir')
 const { Pool } = require('pg')
 const postcodes = require('./postcodes/postcodes.js')
-const key = require('key.js');
+const key = require('./key.js');
 
 //////////////////////////////////////////
 // Validate postcodes array

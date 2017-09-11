@@ -30,3 +30,7 @@ CW12 3RF|RequestError: Error: connect ECONNREFUSED 172.217.12.138:443|Sun Sep 03
 CW12 3RG|RequestError: Error: connect ECONNREFUSED 172.217.12.138:443|Sun Sep 03 2017 22:37:32 GMT-0500 (CDT)
 CW12 3RH|RequestError: Error: connect ECONNREFUSED 172.217.12.138:443|Sun Sep 03 2017 22:37:33 GMT-0500 (CDT)
 CW12 3RJ|RequestError: Error: connect ECONNREFUSED 172.217.12.138:443|Sun Sep 03 2017 22:37:34 GMT-0500 (CDT)
+HI10 7NP|TypeError: Cannot read property 'value' of undefined|Tue Sep 05 2017 09:09:51 GMT-0500 (CDT)
+HP14 3XB|StatusCodeError: 500 - "{\n   \"destination_addresses\" : [],\n   \"origin_addresses\" : [],\n   \"rows\" : [],\n   \"status\" : \"UNKNOWN_ERROR\"\n}\n"|Tue Sep 05 2017 09:10:34 GMT-0500 (CDT)
+L18 4QH|StatusCodeError: 500 - "{\n   \"destination_addresses\" : [],\n   \"origin_addresses\" : [],\n   \"rows\" : [],\n   \"status\" : \"UNKNOWN_ERROR\"\n}\n"|Tue Sep 05 2017 09:19:16 GMT-0500 (CDT)
+L19 3SL|TypeError: Cannot read property 'value' of undefined|Tue Sep 05 2017 09:19:51 GMT-0500 (CDT)

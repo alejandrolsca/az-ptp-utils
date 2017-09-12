@@ -40,3 +40,4 @@ CW48LJ|error: duplicate key value violates unique constraint "ptp_travel_drive_t
 CW84XD|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Sun Sep 03 2017 22:56:40 GMT-0500 (CDT)
 DE43GS|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Mon Sep 04 2017 08:44:37 GMT-0500 (CDT)
 KT160GB|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Tue Sep 05 2017 09:16:29 GMT-0500 (CDT)
+L267XJ|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Mon Sep 11 2017 11:08:20 GMT-0500 (CDT)

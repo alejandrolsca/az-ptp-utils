@@ -44,3 +44,5 @@ L267XJ|error: duplicate key value violates unique constraint "ptp_travel_drive_t
 M337TA|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Wed Sep 13 2017 12:16:04 GMT-0500 (CDT)
 NN126YE|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Mon Sep 18 2017 14:46:33 GMT-0500 (CDT)
 NW37TS|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Mon Sep 18 2017 14:50:40 GMT-0500 (CDT)
+SA152EQ|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Tue Sep 19 2017 08:55:07 GMT-0500 (CDT)
+SA35LS|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Tue Sep 19 2017 08:55:25 GMT-0500 (CDT)

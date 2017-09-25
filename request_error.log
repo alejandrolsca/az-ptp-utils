@@ -51,3 +51,4 @@ PE28 9AH|StatusCodeError: 500 - "{\n   \"destination_addresses\" : [],\n   \"ori
 SG8 9DA|TypeError: Cannot read property 'value' of undefined|Fri Sep 22 2017 14:01:52 GMT-0500 (CDT)
 SK10 2EN|TypeError: Cannot read property 'value' of undefined|Fri Sep 22 2017 14:05:25 GMT-0500 (CDT)
 SK10 2GU|TypeError: Cannot read property 'value' of undefined|Fri Sep 22 2017 14:05:43 GMT-0500 (CDT)
+SK10 2ZK|TypeError: Cannot read property 'value' of undefined|Sun Sep 24 2017 23:54:33 GMT-0500 (CDT)

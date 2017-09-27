@@ -54,3 +54,6 @@ SK10 2GU|TypeError: Cannot read property 'value' of undefined|Fri Sep 22 2017 14
 SK10 2ZK|TypeError: Cannot read property 'value' of undefined|Sun Sep 24 2017 23:54:33 GMT-0500 (CDT)
 SK11 9QQ|StatusCodeError: 500 - "{\n   \"destination_addresses\" : [],\n   \"origin_addresses\" : [],\n   \"rows\" : [],\n   \"status\" : \"UNKNOWN_ERROR\"\n}\n"|Tue Sep 26 2017 13:55:55 GMT-0500 (CDT)
 SK19 7LN|TypeError: Cannot read property 'value' of undefined|Tue Sep 26 2017 14:13:09 GMT-0500 (CDT)
+SK4 5HF|StatusCodeError: 500 - "{\n   \"destination_addresses\" : [],\n   \"origin_addresses\" : [],\n   \"rows\" : [],\n   \"status\" : \"UNKNOWN_ERROR\"\n}\n"|Wed Sep 27 2017 16:56:04 GMT-0500 (CDT)
+SK5 8AL|RequestError: Error: read ECONNRESET|Wed Sep 27 2017 16:58:11 GMT-0500 (CDT)
+SK6 7BY|RequestError: Error: socket hang up|Wed Sep 27 2017 17:00:25 GMT-0500 (CDT)

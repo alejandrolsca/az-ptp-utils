@@ -68,3 +68,5 @@ SK117YG|error: duplicate key value violates unique constraint "ptp_travel_drive_
 SK118BP|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Tue Sep 26 2017 13:56:52 GMT-0500 (CDT)
 SK118SQ|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Tue Sep 26 2017 13:56:57 GMT-0500 (CDT)
 SK176PD|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Tue Sep 26 2017 14:13:06 GMT-0500 (CDT)
+SK43LE|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Wed Sep 27 2017 16:56:36 GMT-0500 (CDT)
+SK73EU|error: duplicate key value violates unique constraint "ptp_travel_drive_times_pkey"|Wed Sep 27 2017 17:07:01 GMT-0500 (CDT)

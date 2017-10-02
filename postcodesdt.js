@@ -1,3 +1,4 @@
+const validateUKPostcode = require('./validate_uk_postcode.js')
 const requestPromise = require('request-promise')
 const fs = require('fs')
 const filendir = require('filendir')
@@ -77,7 +78,7 @@ const getData = function self(id) {
 
     // check is a valid UK postcode
     if (!errorFlag) {
-      if (!uk_postcode.test(normalized_postcode)) {
+      if (!validateUKPostcode(normalized_postcode)) {
         errorFlag = true;
         errorMsg += `${normalized_postcode} is not a valid UK postcode.`
       }

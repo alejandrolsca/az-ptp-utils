@@ -75,3 +75,4 @@ W12 9EY|StatusCodeError: 500 - "{\n   \"destination_addresses\" : [],\n   \"orig
 WA5 3HW|RequestError: Error: connect ETIMEDOUT 172.217.5.74:443|Tue Oct 03 2017 15:20:11 GMT-0500 (CDT)
 WA6 0NE|TypeError: Cannot read property 'value' of undefined|Tue Oct 03 2017 15:20:56 GMT-0500 (CDT)
 WA7 6UL|RequestError: Error: socket hang up|Tue Oct 03 2017 15:22:36 GMT-0500 (CDT)
+WN6 0PY|RequestError: Error: socket hang up|Wed Oct 04 2017 11:35:57 GMT-0500 (CDT)
